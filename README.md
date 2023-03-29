@@ -1,8 +1,6 @@
 # Analyzing Obesity Statistics
 Project for CS105 - Data Analysis Methods
 
-by Sarah Ramirez, Rohan Behera, Jordan Sam, Laiba Hasan, and Alex Szeto
-
 1.  Project proposal  
 A short introduction to the topic, description of your project, technique(s) that you are planning 
 on using (use our shared doc in google drive to submit an informal proposal).  
